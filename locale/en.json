@@ -1,5 +1,6 @@
 {
   "appTitle": "Weblate App Lab",
   "welcome": "Welcome, translator!",
-  "farewell": "Goodbye for now"
+  "farewell": "Goodbye for now",
+  "webhookProbe": "auto-pull probe"
 }
